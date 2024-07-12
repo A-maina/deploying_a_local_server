@@ -1,16 +1,6 @@
 {
   "staff": [
     {
-      "id": "1",
-      "name": "Wanjiku Mwangi",
-      "job": "Software Engineer",
-      "role": "Developer",
-      "address": "123 Mombasa Road, Nairobi, Kenya",
-      "contact": "wanjiku.mwangi@example.com",
-      "image": "https://images.unsplash.com/photo-1611432579699-484f7990b127?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "about": "Wanjiku is a seasoned software engineer with 5 years of experience in developing scalable web applications."
-    },
-    {
       "id": "2",
       "name": "Kamau Njoroge",
       "job": "Data Scientist",
@@ -19,16 +9,6 @@
       "contact": "kamau.njoroge@example.com",
       "image": "https://images.unsplash.com/photo-1595211877493-41a4e5f236b3?q=80&w=2030&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "about": "Kamau is an experienced data scientist with a knack for uncovering insights from complex data sets."
-    },
-    {
-      "id": "3",
-      "name": "Amina Abdi",
-      "job": "Product Manager",
-      "role": "Manager",
-      "address": "789 Moi Avenue, Mombasa, Kenya",
-      "contact": "amina.abdi@example.com",
-      "image": "https://images.unsplash.com/photo-1530785602389-07594beb8b73?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "about": "Amina is a dedicated product manager with a passion for creating user-centric products."
     },
     {
       "id": "4",
@@ -79,16 +59,6 @@
       "contact": "nduta.kariuki@example.com",
       "image": "https://images.unsplash.com/photo-1627393100177-b4297e79a5be?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "about": "Nduta is a talented content writer with a flair for crafting compelling and engaging content."
-    },
-    {
-      "id": "9",
-      "name": "Wekesa Wafula",
-      "job": "Project Manager",
-      "role": "Manager",
-      "address": "606 Eldoret Road, Eldoret, Kenya",
-      "contact": "wekesa.wafula@example.com",
-      "image": "https://images.unsplash.com/photo-1561515075-551b90143acb?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "about": "Wekesa is a proficient project manager known for his ability to lead teams and deliver projects on time."
     },
     {
       "id": "10",
